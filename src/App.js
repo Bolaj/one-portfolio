@@ -7,6 +7,9 @@ function App() {
     <div>
       <NavBar/>
       <Home/>
+
+
+
       <SocialLinks />
     </div>
   );
